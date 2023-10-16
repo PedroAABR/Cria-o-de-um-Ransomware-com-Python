@@ -1,1 +1,1 @@
-# Cria-o-de-um-Ransomware-com-Python
+# Criando um Ramsomware com Python
