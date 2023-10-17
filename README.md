@@ -25,6 +25,8 @@
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/0584c2e5-2659-4bfe-bd6c-1f86153a8f6b)
 
 # python decrypter.py
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/e5a1a8e8-6656-4a5a-bb32-e364b538093e)
+
 
 
 
