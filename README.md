@@ -7,3 +7,6 @@
 
 # mkdir projeto-ransomware (Criando um diretorio com nome de "projeto-ransomware")
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/fea10eab-6190-4891-8bf8-9a7f5439d09c)
+
+# touch decrypter.py encrypter.py teste.txt (Criando o arquivo que sera criptrografado e descriptogrado "teste.txt", o criptografador em python encrypter.py e o descriptografador em python "decrypter.py")
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/0258c32c-f810-4a2b-ae57-decb51042cce)
