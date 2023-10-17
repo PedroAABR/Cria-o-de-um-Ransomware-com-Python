@@ -12,5 +12,7 @@
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/0258c32c-f810-4a2b-ae57-decb51042cce)
 
 # nano teste.txt (Abrindo o arquivo .txt e escrevendo a mensagem que sera criptografada e descriptografada) 
-![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/459027f7-d71f-457b-b776-6944f616cd95)
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/1043b0cc-73f1-4238-8af1-ce27896202b6)
+
+# nano encrypter.py (Abrindo o arquivo de criptografia e escrevendo o codigo em Python)
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/6c40c910-cf65-400f-96f6-fa1c2154de86)
