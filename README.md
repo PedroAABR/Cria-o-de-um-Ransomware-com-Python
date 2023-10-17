@@ -16,3 +16,7 @@
 
 # nano encrypter.py (Abrindo o arquivo de criptografia e escrevendo o codigo em Python)
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/6c40c910-cf65-400f-96f6-fa1c2154de86)
+
+# python encrypter.py (Criptografando o arquivo .txt)
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/d82c9336-1248-4324-b4ce-30389138e8d7)
+
