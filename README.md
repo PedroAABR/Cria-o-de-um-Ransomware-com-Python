@@ -24,8 +24,11 @@
 # nano decrypter.py (Abrindo o arquivo de descriptografia e escrevendo o codigo em Python)
 ![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/0584c2e5-2659-4bfe-bd6c-1f86153a8f6b)
 
-# python decrypter.py
-![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/e5a1a8e8-6656-4a5a-bb32-e364b538093e)
+# python decrypter.py (Descriptografando o arquivo .txt)
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/1e616a78-8123-4484-bfa9-3d110324425f)
+![image](https://github.com/PedroAABR/Criando-um-Ransomware-com-Python/assets/101150972/1ca62367-7061-42a8-a91a-e3f21287e6fa)
+
+
 
 
 
